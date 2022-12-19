@@ -1,26 +1,16 @@
-body {
-    background-color: darkorange;
-    color: peachpuff
-    ;
-    }
-  .my-name {
-    color: antiquewhite;
-    font-family: Arial, Helvetica, sans-serif;
-  }
+body {background-color: black;
+color: whitesmoke;
+background-image: url(images/background.jpg);
 
-.project {
-    font-family: cursive;
-    font-size: larger;
 }
+
 .title1 {
-    border: 1px solid black;
-  padding: 25px 50px 50px 100px;
-  background-color: black;
-  text-align: center;
-}
+color: white;
+font-size: 35px;
+letter-spacing: 1px;
+cursor: pointer;
 
-.selfie {
-    width: 80px;
-    border-radius: 10px;
-    
 }
+.my-name {color: white;
+	margin: 20px 0px 20px;
+	font-size: 75px;}
